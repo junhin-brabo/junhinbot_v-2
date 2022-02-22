@@ -1,0 +1,9 @@
+const daftarvip = (prefix) => { 
+	return `
+
+*Caso tenha interesse em aderir premium contate a Junhin.*
+
+https://api.whatsapp.com/send?phone=557187566648&text=Vim%20pelo%20o%20bot%20tenho%20interrese%20em%20ter%20premium%20no%20bot%20me%20chamo:
+ `
+}
+exports.daftarvip = daftarvip
